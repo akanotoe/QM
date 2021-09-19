@@ -3,7 +3,7 @@
 
 Jupyter notebooks describing concepts from quantum mechanics.
 
-## [AiryWaveFcns](https://github.com/akanotoe/QM/AiryWaveFcns.ipynb)
+## [AiryWaveFcns](AiryWaveFcns.ipynb)
 
 A notebook which outlines the problem of the quantum bouncing ball and the more general problem of the symmetric linear potential well.
 
