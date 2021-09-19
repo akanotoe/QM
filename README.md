@@ -7,9 +7,9 @@ Jupyter notebooks describing concepts from quantum mechanics.
 
 A notebook which outlines the problem of the quantum bouncing ball and the more general problem of the symmetric linear potential well.
 
-## [GeneralNumerov](https://github.com/akanotoe/QM/GeneralNumerov.ipynb)
+## [GeneralNumerov](GeneralNumerov.ipynb)
 A notebook which introduces and performs the Numerov method for computationally solving the Schr&ouml;dinger equation for arbitrary potential energy functions.
 
-## [SHOvscl](https://github.com/akanotoe/QM/SHOvscl.ipynb)
+## [SHOvscl](SHOvscl.ipynb)
 
 A similar notebook to AiryWaveFcns.ipynb. As the name suggests, it was initially created to compare the classical and quantum probability distributions of the simple harmonic oscillator for various values of *n*.
